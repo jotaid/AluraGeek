@@ -33,7 +33,7 @@ Una aplicación web moderna para gestionar un inventario de productos con un ele
 
 1. Clona el repositorio
 ```bash
-git clone https://github.com/tu-usuario/inventario-productos.git
+git clone https://github.com/jotaid/AluraGeek.git
 cd inventario-productos
 ```
 
